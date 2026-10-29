@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+pytest
+# optional, only to re-execute the notebook locally:
+# jupyter nbconvert ipykernel

@@ -1,0 +1,10 @@
+scenario,controller,avg_wait_mean,avg_wait_std,vehicles_served_mean,vehicles_served_std,avg_queue_mean,avg_queue_std,n_censored_mean,n_censored_std,improvement_vs_fixed_%
+Light,Fixed-Equal,43.034,1.227,608.75,17.812,7.278,0.337,0.0,0.0,0.0
+Light,Random Search,36.477,0.806,609.333,16.817,6.17,0.259,0.0,0.0,15.237
+Light,GA,26.541,1.083,607.85,17.749,4.483,0.266,0.0,0.0,38.326
+Moderate,Fixed-Equal,53.558,3.742,1105.35,31.59,16.45,1.448,0.0,0.0,0.0
+Moderate,Random Search,53.177,3.701,1105.367,31.046,16.325,1.419,0.0,0.0,0.712
+Moderate,GA,48.475,2.321,1107.417,31.92,14.903,1.076,0.0,0.0,9.491
+Uneven,Fixed-Equal,506.868,53.324,865.6,15.171,119.66,15.479,149.55,24.778,0.0
+Uneven,Random Search,46.422,2.946,1054.95,31.504,13.628,1.179,0.0,0.0,90.841
+Uneven,GA,39.647,2.632,1056.333,30.492,11.647,1.028,0.0,0.0,92.178
